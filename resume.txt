@@ -1,0 +1,178 @@
+Sr. M365 & Power Platform Consultant 
+Name:  Parimala Devi Kandula
+Contact:  +1(216-418-3463)
+Email-ID:   parimaladevi1431@gmail.com
+LinkedIn:   www.linkedin.com/in/parimaladevi 
+
+
+PROFESSIONAL SUMMARY:
+•	Senior Power Platform Consultant with 9 years of experience delivering solution architecture, low-code/no-code development, and process digitization using Power Apps (Canvas, Model-Driven, Power Pages/Power Apps Portals), Power Automate, and Power BI across finance, healthcare, retail, insurance, and manufacturing domains.
+•	Expertise in Dataverse schema design, relationship modeling, performance optimization, and governance for high-volume transactional and analytical workloads.
+•	Architected Power Pages integrated with Azure AD B2C for secure external user authentication, role-based access, and multi-language capabilities.
+•	Implemented AI Builder models for intelligent document processing, invoice automation, sentiment analysis, and predictive workflows.
+•	Designed and deployed Custom and Premium Connectors to integrate with Dynamics 365, Salesforce, ServiceNow, SQL Server, REST APIs, and Azure services.
+•	Leveraged Microsoft Graph API and Azure API Management for advanced M365 integrations, workflow orchestration, and API lifecycle governance.
+•	Configured On-Premises Data Gateway to enable hybrid connectivity between cloud apps and legacy ERP, EHR, and policy systems.
+•	Delivered Application Lifecycle Management (ALM) strategies using managed/unmanaged solutions, source control, and CI/CD pipelines in Azure DevOps.
+•	Established Power Platform Center of Excellence (CoE) Starter Kit and governance frameworks to enforce policies, monitor adoption, and standardize development practices.
+•	Automated complex workflows with Power Automate and Business Process Automation (BPA) techniques, integrating approvals, notifications, and external triggers.
+•	Embedded Power BI dashboards into Power Apps for role-specific KPIs, operational intelligence, and real-time decision support.
+•	Designed Adaptive Cards in Microsoft Teams integrated with Power Automate for instant task updates, approvals, and notifications.
+•	Integrated Excel and Microsoft Forms/Forms Pro with Power Automate for data capture, validation, and workflow initiation.
+•	Extended SharePoint functionality using SharePoint Framework (SPFx) and integrated custom web parts with Power Apps and Power Automate.
+•	Modernized legacy InfoPath forms and Nintex Workflows into responsive, maintainable Power Platform solutions.
+•	Developed offline-capable mobile Power Apps with barcode scanning, geolocation, and conditional logic for field, retail, and manufacturing operations.
+•	Created Power Virtual Agents for self-service portals in healthcare, finance, and customer service environments.
+•	Integrated Azure Key Vault for secure storage of credentials and sensitive configurations in Power Platform apps and flows.
+•	Designed and implemented environment strategies (Dev, Test, Prod) for scalable, compliant application delivery.
+•	Enforced Data Loss Prevention (DLP) policies, role-based access control (RBAC), and compliance with HIPAA, PCI DSS, SOX, and GDPR across all solutions.
+•	Optimized app performance through delegation strategies, formula optimization, Power FX best practices, query tuning, and load testing.
+•	Created reusable Power Apps components, templates, and UI kits to ensure consistency and accelerate solution delivery.
+•	Enabled citizen developer programs by mentoring business users, defining low-code governance, and delivering targeted training.
+•	Led cross-functional workshops with executives, business stakeholders, and technical teams to align requirements, solution architecture, and delivery priorities.
+•	Aligned all solutions with Microsoft security, compliance, and platform best practices, ensuring sustainable adoption and measurable business impact.
+TECHNICAL SKILLS:
+
+Power Platform Development	Power Apps (Canvas, Model-Driven, Power Pages/Portals), Power Automate, Power BI, Power Virtual Agents, AI Builder, Power FX
+Data Management & Integration	Dataverse, SQL Server, Azure SQL Database, SharePoint Lists/Libraries, Excel, Microsoft Forms, Custom Connectors, Premium Connectors, On-Premises Data Gateway
+M365 & Collaboration Tools	SharePoint Online, Microsoft Teams, OneDrive for Business, Viva Connections, Microsoft Forms Pro, Adaptive Cards
+Application Lifecycle & Governance	Application Lifecycle Management (ALM), Power Platform Center of Excellence (CoE) Starter Kit, Governance Frameworks, Environment Strategy (Dev/Test/Prod), Solution Packaging
+API & Advanced Integrations	Microsoft Graph API, Azure API Management, REST APIs, SOAP Services, Azure Logic Apps, Azure Functions
+Security & Compliance	Data Loss Prevention (DLP) Policies, Role-Based Access Control (RBAC), Azure Key Vault, Compliance Standards (HIPAA, PCI DSS, SOX, GDPR), M365 Security & Compliance Center
+Legacy Modernization	InfoPath Form Conversion, Nintex Workflow Migration, SharePoint Designer Workflows, Business Process Automation (BPA)
+Development Frameworks & Extensions	SharePoint Framework (SPFx), JavaScript, jQuery, HTML5, CSS3, Responsive Design Components
+Reporting & Analytics	Power BI Embedded in Power Apps, KPI Dashboards, Operational Intelligence Reports, Data Visualization Best Practices
+Delivery, Collaboration & Leadership	Requirements Gathering, Solution Architecture, Cross-Functional Workshops, Citizen Developer Enablement, Training & Change Management
+
+
+
+
+PROFESSIONAL EXPERIENCE:
+
+Client: Regent Bank, Tulsa, OK.                                                                                                                         Feb 2023 - Present
+
+Role: Sr. Power Platform Consultant
+
+Responsibilities:
+•	Architected and deployed enterprise-grade Power Apps (Canvas, Model-Driven, Power Pages) to digitize credit approval, compliance tracking, and risk management workflows across the bank.
+•	Built customer-facing Power Pages (formerly Power Apps Portals) integrated with Azure AD B2C to securely onboard clients and vendors with multi-factor authentication.
+•	Designed Dataverse schemas for customer, loan, and transaction data with optimized tables, business rules, and role-based permissions for financial compliance.
+•	Leveraged AI Builder for intelligent KYC document processing, loan application classification, and automated compliance checks.
+•	Automated loan origination, underwriting, and approval workflows with Power Automate, integrating escalations, exception handling, and audit triggers.
+•	Embedded Power BI dashboards into Power Apps for real-time risk scoring, portfolio analysis, and compliance KPIspresented to executives and auditors.
+•	Applied advanced Power FX formulas with delegation strategies, concurrency controls, and load testing to ensure app scalability for thousands of daily transactions.
+•	Integrated Microsoft Graph API and Azure API Management for seamless connectivity with Outlook, Teams, OneDrive, and regulatory reporting systems.
+•	Developed Custom and Premium Connectors to interface with core banking systems, Salesforce CRM, ServiceNow ticketing, and credit bureau APIs.
+•	Configured On-Premises Data Gateway to securely connect cloud apps with SQL Server–based financial data warehouses and legacy loan platforms.
+•	Delivered Application Lifecycle Management (ALM) pipelines via Azure DevOps, including solution validation, automated testing, and CI/CD for multi-environment deployments.
+•	Established the Power Platform Center of Excellence (CoE) Starter Kit and leveraged the Power Platform Admin Center for monitoring, analytics, and governance of app usage.
+•	Enforced Data Loss Prevention (DLP) policies, role-based access control (RBAC), and audit logging to align with SOX, PCI DSS, GLBA, and FFIEC banking regulations.
+•	Built Adaptive Cards in Microsoft Teams integrated with Power Automate for instant alerts on credit approvals, fraud detection, and compliance exceptions.
+•	Extended SharePoint Online capabilities with SPFx web parts and embedded Power Apps forms to modernize loan documentation and approval processes.
+•	Integrated Azure Functions for complex business logic and used Azure Key Vault to securely store credentials, secrets, and encryption keys for compliance workflows.
+•	Piloted Copilot in Power Apps and Power Automate to enable natural language–driven app creation, accelerating workflow automation and empowering business teams.
+•	Conducted performance benchmarking, scalability testing, and automated validation of Power Platform solutions to ensure production reliability.
+•	Implemented telemetry and monitoring using Power Platform Admin Center, Azure Monitor, and Application Insights, proactively identifying performance bottlenecks.
+•	Led citizen developer enablement programs, mentoring business units, defining low-code best practices, and driving adoption of secure and compliant solutions.
+Environment: Power Apps (Canvas, Model-Driven, Power Pages/Portals), Power Automate, Power BI Embedded, Dataverse, AI Builder, Power FX, Microsoft Teams, SharePoint Online, Microsoft Graph API, Custom & Premium Connectors, On-Premises Data Gateway, Azure Functions, Azure API Management, Azure Key Vault, Application Lifecycle Management (ALM), Power Platform Admin Center, CoE Starter Kit, Azure Monitor, Application Insights
+
+
+Client: United Health Centers, Fresno, CA.                                                                                               July 2021 - Jan 2023
+
+Role: Sr. Power Apps & M365 Solutions Developer
+
+Responsibilities:
+•	Designed and deployed Canvas Apps and Model-Driven Apps to streamline patient intake, scheduling, and care coordination, ensuring HIPAA-compliant data handling.
+•	Built Power Automate workflows to automate patient reminder notifications, approval routing, and clinical form processing across multiple EHR and M365 systems.
+•	Integrated Dataverse with internal EHR systems and FHIR-based APIs to centralize patient records and ensure interoperability across health platforms.
+•	Developed custom connectors for Power Platform to enable secure integration with lab systems, pharmacy portals, and insurance claim APIs.
+•	Configured Power BI dashboards with real-time KPIs for population health management, enabling clinicians to track readmissions, follow-ups, and treatment adherence.
+•	Implemented role-based access controls (RBAC) and Azure AD conditional access policies to secure sensitive healthcare data.
+•	Designed SharePoint Online solutions with advanced document libraries, metadata, and Power Automate-driven records management to support compliance with HIPAA and HITRUST.
+•	Automated repetitive administrative tasks such as claims processing, HR onboarding, and IT ticketing using Power Virtual Agents and Power Automate bots.
+•	Created Teams-integrated apps for care staff collaboration, enabling real-time patient updates, secure chat, and embedded dashboards within Microsoft Teams.
+•	Leveraged Microsoft Graph API for advanced queries across Outlook, OneDrive, and Teams to enhance care team communication and scheduling efficiency.
+•	Designed forms and workflows in Power Apps Portals to allow patients to securely submit intake information and service requests through a self-service portal.
+•	Applied DLP (Data Loss Prevention) policies and environmental governance models to secure PHI data across Power Platform environments.
+•	Conducted requirement workshops with clinical staff to capture workflow pain points and translate them into low-code applications using Power Apps.
+•	Migrated legacy InfoPath forms and Access databases to modern Power Apps and SharePoint Online solutions.
+•	Configured OneDrive for Business and Exchange Online integrations for secure storage and retrieval of care-related communications.
+•	Implemented Azure Key Vault for secrets management and secure API authentication in Power Platform custom connectors.
+•	Developed version-controlled solutions using Azure DevOps pipelines to enable CI/CD for Power Platform applications.
+•	Collaborated with security and compliance teams to conduct audit trails, eDiscovery searches, and retention policiesusing Microsoft Purview/Compliance Center.
+•	Built AI Builder models for document classification (lab reports, consent forms) and sentiment analysis for patient feedback surveys.
+•	Delivered end-user training and adoption workshops for clinical and administrative staff to maximize adoption of Power Apps, Teams, and M365 solutions.
+Environment: Power Apps, Power Automate, Power BI, Power Virtual Agents, Dataverse, Model-Driven Apps, Canvas Apps, SharePoint Online, Teams Apps, Microsoft Graph API, Azure AD, Microsoft Purview, FHIR/HL7 Integration, Azure DevOps CI/CD, AI Builder
+
+
+Client: Spreetail, Lincoln, NE.                                                                                                                       Nov 2020 – June 2021
+
+Role: Sr. M365 & Power Apps Developer
+
+Responsibilities:
+•	Engineered custom Canvas Apps and Model-Driven Apps using Power Apps, embedding business logic with Power Fx, and aligning workflows with Spreetail’s e-commerce operations.
+•	Built Power Automate flows to orchestrate end-to-end processes like order approvals, vendor onboarding, and real-time supply chain notifications.
+•	Designed SharePoint Online sites, lists, and libraries with advanced JSON column formatting, metadata, and content types to optimize product content and catalog management.
+•	Developed interactive Power BI dashboards integrated with Dataverse, SQL Server, and Excel for insights into customer purchasing trends and sales performance KPIs.
+•	Leveraged Dataverse as the centralized data platform, modeling tables, relationships, and business rules for consistent data management across apps and workflows.
+•	Integrated Teams apps, tabs, and messaging extensions with Power Apps and adaptive cards to streamline collaboration between logistics, marketing, and finance teams.
+•	Automated document-intensive workflows with AI Builder forms processing, extracting structured data from invoices, purchase orders, and shipping manifests.
+•	Implemented role-based security and Azure AD conditional access policies to ensure compliance with e-commerce data governance and PCI DSS security requirements.
+•	Built custom connectors to integrate Power Platform with payment gateways, ERP, and CRM systems, extending core M365 ecosystem functionality.
+•	Enhanced user adoption by creating end-user training content, knowledge bases, and self-service guides, reducing reliance on IT support.
+•	Applied Power Apps Component Framework (PCF) controls to deliver reusable components, improving scalability and maintainability of internal solutions.
+•	Orchestrated large-scale data migration and transformation using Dataflows, SQL, and Power Query to unify legacy data sources into Spreetail’s M365 tenant.
+•	Designed automated compliance reporting workflows aligned with GDPR and SOX standards, ensuring data transparency across retail operations.
+•	Partnered with business stakeholders to capture requirements and transform them into low-code/no-code solutions that reduced order processing time by eliminating manual steps.
+•	Implemented Power Virtual Agents chatbots integrated with Dataverse to provide customer service representatives with real-time product and order data.
+•	Applied DevOps practices with Azure DevOps pipelines and GitHub Actions, version controlling Power Platform solutions and automating deployment across environments.
+•	Configured Microsoft Graph API integrations to automate calendar events, task assignments, and user provisioning within the M365 ecosystem.
+•	Built mobile-friendly Power Apps for warehouse staff, enabling real-time updates on stock availability, deliveries, and return processing.
+•	Used DAX and M language in Power BI to enhance financial analytics, providing insights into cost structures, pricing strategies, and discount optimization.
+•	Created conditional logic and validations in Power Apps forms to enforce business rules for supplier agreements and internal approvals.
+•	Managed OneDrive for Business and Exchange Online automation to standardize file sharing, archiving, and email workflows across teams.
+•	Deployed information protection and sensitivity labels in Microsoft Purview to secure sensitive customer and payment data.
+•	Implemented service health monitoring and auditing through Microsoft 365 Admin Center and PowerShell scripts to proactively address issues.
+•	Enabled cross-platform integrations between Power Platform and third-party logistics applications, ensuring smoother last-mile delivery tracking.
+•	Championed citizen development practices by mentoring business users to leverage Power Apps and Power Automate for self-service solutions.
+Environment: Power Apps, Power Automate, Power BI, Dataverse, SharePoint Online, Microsoft Teams, AI Builder, Power Virtual Agents, PCF Controls, Azure Active Directory, Microsoft Graph API, Azure DevOps, DAX/M, Microsoft Purview, E-commerce Process Automation
+
+
+Client: Acuity Insurance, Sheboygan, WI.                                                                                                   Aug 2019 – Oct 2020
+Role: SharePoint Developer
+
+Responsibilities:
+•	Developed and maintained SharePoint Online and SharePoint 2016/2019 solutions, delivering customized intranet portals, document management systems, and collaboration platforms tailored to insurance operations.
+•	Created custom SharePoint Framework (SPFx) web parts, extensions, and applications using TypeScript, React, and modern JavaScript to enhance employee productivity.
+•	Designed and implemented document libraries, content types, site templates, and workflows for claims processing, underwriting, and policy management.
+•	Built Power Automate flows for document approvals, claim escalations, and compliance checks, reducing manual workload and turnaround time.
+•	Developed Power Apps forms for policyholder onboarding, claims submission, and employee requests, seamlessly integrated with SharePoint lists.
+•	Configured SharePoint Search, Managed Metadata Services, and Content Query Web Parts to enable fast retrieval of claims and policy-related documents.
+•	Integrated SharePoint with Microsoft Teams, OneDrive, and Outlook to streamline collaboration and improve accessibility of insurance data.
+•	Implemented role-based access control, permissions, and compliance rules in alignment with SOX and HIPAA standards for secure document handling.
+•	Designed SharePoint Designer workflows and Nintex workflows to automate underwriting approval processes and claims tracking.
+•	Migrated legacy content from file shares and Lotus Notes into SharePoint Online, ensuring metadata consistency and governance compliance.
+•	Created custom branding, themes, and site designs to align with Acuity Insurance’s corporate identity across portals.
+•	Worked on InfoPath form enhancements and legacy migration to Power Apps, modernizing employee self-service applications.
+•	Implemented custom dashboards and reports using Power BI integrated with SharePoint lists for claims metrics, underwriting performance, and compliance monitoring.
+•	Optimized SharePoint performance, indexing, and search refiners to improve scalability and reduce page load times for large document libraries.
+•	Collaborated with business analysts, underwriters, and claims teams to gather requirements, deliver Agile-based sprint deliverables, and ensure stakeholder satisfaction.
+Environment: SharePoint Online, SPFx, Power Automate, Power Apps, Power BI, Nintex, C#, ASP.NET, CSOM/JSOM, ShareGate
+
+Client: Bluestone, Banglore, India.                                                                                                          May 2016 – June 2019
+Role: SharePoint Administrator
+Responsibilities:
+•	Managed end-to-end administration of SharePoint Online and SharePoint 2019 farms, including site collections, service applications, and central administration tasks.
+•	Configured and maintained SharePoint permissions, user roles, and Active Directory group integrations to support enterprise-wide access governance.
+•	Monitored system performance using ULS logs, Health Analyzer, and PowerShell scripts, ensuring high availability and proactive issue resolution.
+•	Administered Search Service Applications including crawl rules, index partitions, query rules, and result sources for optimized enterprise search experiences.
+•	Oversaw SharePoint patching, cumulative updates, and service pack upgrades, ensuring environment stability and compliance with Microsoft guidelines.
+•	Implemented backup and disaster recovery strategies leveraging SQL Server maintenance plans, Azure Backup, and farm-level recovery testing.
+•	Automated routine administrative tasks using PowerShell, PnP PowerShell, and CSOM scripts, reducing manual effort and improving efficiency.
+•	Integrated SharePoint with Exchange, Teams, and OneDrive to streamline collaboration and enterprise document management.
+•	Supported migration projects using ShareGate and Metalogix, ensuring smooth transition of sites, lists, libraries, and workflows to SharePoint Online.
+•	Enforced governance policies, quota management, retention policies, and compliance controls to maintain system security and regulatory adherence.
+Environment: SharePoint Online, SharePoint 2019, PowerShell, PnP PowerShell, SQL Server, Active Directory, ShareGate, Office 365 Admin Center, Microsoft Teams, OneDrive
+
+
+
