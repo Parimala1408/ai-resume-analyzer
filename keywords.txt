@@ -1,0 +1,16 @@
+Power Platform
+Power Apps
+Power Automate
+Power BI
+Dataverse
+SharePoint Online
+Dynamics 365
+D365 SCM
+Azure DevOps
+Teams Integration
+Canvas App
+Model Driven App
+API Integration
+GitHub
+Power Pages
+ALM
